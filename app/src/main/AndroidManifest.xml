@@ -16,6 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".LevelScreen" />
+        <activity android:name=".Level1" />
+        <activity android:name=".ScoreBoard"></activity>
     </application>
 
 </manifest>
